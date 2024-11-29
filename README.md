@@ -33,16 +33,19 @@ Strategy.py:回测框架
  
 3、进行完这一步您应该可以看到结果，如下图所示：（200表示输出成功的状态）
 
-![image](https://github.com/user-attachments/assets/ef8d8571-4665-4187-8f6a-e44a3564d658)
+![image](https://github.com/user-attachments/assets/592964a4-e1ef-42f8-8153-557835b5e88c)
+
 
 4、您也可以在浏览器访问“http://127.0.0.1:8000/results”看到相同的结果
 
-![image](https://github.com/user-attachments/assets/0cab207b-18a3-4d3e-ac87-1e42027bdf8a)
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/8cb1e49f-c240-4f0d-9d12-d7ee80c77346">
+
 
 
 除此之外，我还用cerebro.plot()画了一下策略执行的折线图
 
-![image](https://github.com/user-attachments/assets/d122de50-194b-4888-b464-879c2bed1438)
+![image](https://github.com/user-attachments/assets/bb857171-f5f2-4767-a3db-59945a7cfa40)
+
 
 
 [其他补充]：
