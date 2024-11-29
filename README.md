@@ -21,7 +21,7 @@ Strategy.py:回测框架
 
 您需要做的：
 
-1、在该文件夹下的终端输入：uvicorn api:app --reload
+1、在该文件夹下（backtest文件夹）的终端输入：uvicorn api:app --reload
 
 若成功会出现以下文字
 
